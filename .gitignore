@@ -1,0 +1,8 @@
+Unity/Library/
+Unity/ProjectSettings/
+Unity/Temp/
+Unity/obj/
+Unity/.vs/Unity/v14/.suo
+Testset/Sequence/*/*.png
+Testset/Sequence/*/*.csv
+*.csproj

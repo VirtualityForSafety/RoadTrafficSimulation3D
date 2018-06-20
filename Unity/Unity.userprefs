@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{CF118143-7E37-744F-BE45-3F55345FEC40}|">
+  <MonoDevelop.Ide.ItemProperties.Unity PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PVATestbed/Simulation/PedestrianCamera.cs">
+    <Files>
+      <File FileName="Assets/Script/PVATestbed/Model/Car.cs" Line="6" Column="1" />
+      <File FileName="Assets/Script/PVATestbed/Model/Trajectory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/PVATestbed/Model/Road.cs" Line="274" Column="22" />
+      <File FileName="Assets/Script/SituationBuilder.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Simulation/FrameCapturer.cs" Line="112" Column="52" />
+      <File FileName="Assets/Script/IntegrationClass.cs" Line="4" Column="29" />
+      <File FileName="Assets/Script/Simulation/DataCapturer.cs" Line="39" Column="47" />
+      <File FileName="Assets/Resources/360VRCameraCaptureRig/LS360VRCamera.cs" Line="102" Column="21" />
+      <File FileName="Assets/Script/PVATestbed/Simulation/PedestrianCamera.cs" Line="37" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
