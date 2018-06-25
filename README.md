@@ -1,5 +1,8 @@
 # RoadTrafficSimulation3D
-A 3D road traffic simulation for experimental purposes
+A 3D road traffic simulation that contains a intersection-wise automatic city generator, vehicles and their routes generation, and Intelligent Driver Model (IDM) based on the Volkhin's code https://github.com/volkhin/RoadTrafficSimulator
+
+## Motivation
+SCPAR
 
 ## Tested environment
 * Windows 10
